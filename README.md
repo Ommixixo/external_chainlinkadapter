@@ -307,14 +307,14 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Sergio Sinecta**
-- GitHub: [@sergiosinecta](https://github.com/sergiosinecta)
+**Sergio Del Castillo**
+- GitHub: [@s/Ommixixo](https://github.com/Ommixixo)
 
 ## 📞 Soporte
 
 Si tienes problemas o preguntas, por favor:
 1. Revisa la sección de [Solución de Problemas](#-solución-de-problemas)
-2. Abre un [Issue](https://github.com/sergiosinecta/external_chainlinkadapter/issues)
+2. Abre un [Issue](https://github.com/Ommixixo/external_chainlinkadapter/issues)
 3. Contacta al desarrollador
 
 ---
